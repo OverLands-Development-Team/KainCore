@@ -6,4 +6,3 @@ This Is KainCore, Modified From EssentialsX... This Plugin Created For OverLands
 
 
 * [Discord](https://discord.gg/FVQSXT8FrN)
-* [Installation](https://github.com/Lucky-Development-Department/LuckyEssentials/wiki/Installation)
