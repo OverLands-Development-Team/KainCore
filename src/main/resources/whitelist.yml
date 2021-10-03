@@ -1,0 +1,6 @@
+whitelist:
+  enabled: false
+  kick_message: 'You are not whitelisted!'
+  whitelisted:
+    - notkain_
+    - paradiselos
