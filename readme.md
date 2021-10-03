@@ -2,7 +2,7 @@
 
 # KainCore / OverLandsCore
 
-This Is KainCore, Modified From EssentialsX... This Plugin Created For OverLands Network, Created By NotKain_
+This Is KainCore, Modified From LuckyEssentialsX... This Plugin Created For OverLands Network, Created By NotKain_ 
 
 
 * [Discord](https://discord.gg/FVQSXT8FrN)
